@@ -1,1 +1,2 @@
-# Smri-Calculator
+Mohammad Smri
+1121274
